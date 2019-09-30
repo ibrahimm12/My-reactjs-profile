@@ -34,7 +34,7 @@ module.exports = app => {
         })
         .save(function (err, doc) {
             if (err)
-                res.json('Whoops! I\'m sorry, an error happened while sending your message. Please send a message directly to <a href="mailto:rg3646@outlook.com">rg3646@outlook.com');
+                res.json('Whoops! I\'m sorry, an error happened while sending your message. Please send a message directly to <a href="mailto:ibrahim@abdirahman.ga">ibrahim@abdirahman.ga');
             else
                 res.send(`Thanks for reaching out ${req.body.name}!`);
         });

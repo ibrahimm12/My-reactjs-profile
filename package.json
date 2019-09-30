@@ -14,8 +14,8 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client && npm run build --prefix client"
   },
-  "author": "Ricky Garcia",
-  "license": "ISC",
+  "author": "Abdirahman Ibrahim",
+  "license": "MIT",
   "dependencies": {
     "@sendgrid/mail": "^6.2.1",
     "body-parser": "^1.18.2",
