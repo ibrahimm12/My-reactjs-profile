@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ibrahimm12.github.io/My-reactjs-profile"
+  "homepage": "https://ibrahimm12.github.io/My-reactjs-profile",
   "dependencies": {
     "axios": "^0.18.0",
     "node-sass-chokidar": "^1.2.0",
