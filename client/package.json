@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://ibrahimm12.github.io/My-reactjs-profile",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "node-sass-chokidar": "^1.2.0",
     "npm-run-all": "^4.1.2",
     "react": "^16.2.0",
